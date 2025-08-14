@@ -184,3 +184,7 @@ Improvements and bug reports are welcome! Focus areas:
 - Additional tactical motif types
 - Performance optimizations
 - User interface enhancements
+
+output -
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/6c187702-fa1e-4a59-bafd-24d46357175f" />
+
