@@ -1,0 +1,368 @@
+{
+  "game_1": {
+    "white": "YELLOW989",
+    "black": "ANIRBANopi",
+    "date": "2025.08.13",
+    "analysis": {
+      "executed": [
+        {
+          "move_number": 8,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "f8",
+          "square_to": "c5",
+          "description": "Pin executed: rook pins pawn on f2"
+        },
+        {
+          "move_number": 16,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "c5",
+          "square_to": "d4",
+          "description": "Pin executed: rook pins pawn on f2"
+        },
+        {
+          "move_number": 19,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "b5",
+          "square_to": "c4",
+          "description": "Pin executed: rook pins pawn on f7"
+        },
+        {
+          "move_number": 31,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "b3",
+          "square_to": "c2",
+          "description": "Pin executed: rook pins pawn on e4"
+        }
+      ],
+      "missed": [
+        {
+          "move_number": 9,
+          "tactic": "pin",
+          "piece": "knight",
+          "target": "enemy_piece",
+          "square_from": "c6",
+          "square_to": "e5",
+          "description": "Missed pin opportunity with c6e5"
+        },
+        {
+          "move_number": 24,
+          "tactic": "pin",
+          "piece": "queen",
+          "target": "enemy_piece",
+          "square_from": "d8",
+          "square_to": "d1",
+          "description": "Missed pin opportunity with d8d1"
+        },
+        {
+          "move_number": 37,
+          "tactic": "skewer",
+          "piece": "bishop",
+          "target": "enemy_piece",
+          "square_from": "e2",
+          "square_to": "h5",
+          "description": "Missed skewer opportunity with e2h5"
+        }
+      ],
+      "allowed": [
+        {
+          "move_number": 9,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "f3",
+          "square_to": "e5",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 11,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "e5",
+          "square_to": "c6",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 13,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "c6",
+          "square_to": "d8",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 22,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "d5",
+          "square_to": "e4",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 32,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "h7",
+          "square_to": "g6",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 34,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "g4",
+          "square_to": "h5",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        }
+      ]
+    }
+  },
+  "game_2": {
+    "white": "ANIRBANopi",
+    "black": "um4r_fxrooq",
+    "date": "2025.08.12",
+    "analysis": {
+      "executed": [
+        {
+          "move_number": 21,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "knight",
+          "square_from": "f1",
+          "square_to": "b5",
+          "description": "Pin executed: rook pins knight on c6"
+        },
+        {
+          "move_number": 42,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "f2",
+          "square_to": "h4",
+          "description": "Pin executed: rook pins pawn on h2"
+        },
+        {
+          "move_number": 46,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "f8",
+          "square_to": "f5",
+          "description": "Pin executed: rook pins pawn on h2"
+        },
+        {
+          "move_number": 50,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "f5",
+          "square_to": "f2",
+          "description": "Pin executed: rook pins pawn on h2"
+        }
+      ],
+      "missed": [
+        {
+          "move_number": 47,
+          "tactic": "pin",
+          "piece": "queen",
+          "target": "enemy_piece",
+          "square_from": "h3",
+          "square_to": "g4",
+          "description": "Missed pin opportunity with h3g4"
+        }
+      ],
+      "allowed": [
+        {
+          "move_number": 11,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "bishop",
+          "square_from": "c1",
+          "square_to": "d2",
+          "description": "Allowed pin: opponent could pin bishop with rook"
+        },
+        {
+          "move_number": 13,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "bishop",
+          "square_from": "e4",
+          "square_to": "e5",
+          "description": "Allowed pin: opponent could pin bishop with rook"
+        },
+        {
+          "move_number": 43,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "g2",
+          "square_to": "g3",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 45,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "d4",
+          "square_to": "e5",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 47,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "e5",
+          "square_to": "e6",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 49,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "e6",
+          "square_to": "e7",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 51,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "d1",
+          "square_to": "d5",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        },
+        {
+          "move_number": 52,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "rook",
+          "square_from": "f8",
+          "square_to": "f7",
+          "description": "Allowed pin: opponent could pin rook with rook"
+        },
+        {
+          "move_number": 53,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "e7",
+          "square_to": "e8",
+          "description": "Allowed pin: opponent could pin pawn with rook"
+        }
+      ]
+    }
+  },
+  "game_3": {
+    "white": "ANIRBANopi",
+    "black": "olleturtle",
+    "date": "2025.08.13",
+    "analysis": {
+      "executed": [],
+      "missed": [],
+      "allowed": [
+        {
+          "move_number": 12,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "bishop",
+          "square_from": "c8",
+          "square_to": "e6",
+          "description": "Allowed pin: opponent could pin bishop with rook"
+        }
+      ]
+    }
+  },
+  "game_4": {
+    "white": "ANIRBANopi",
+    "black": "TrippleNerdScore",
+    "date": "2025.08.13",
+    "analysis": {
+      "executed": [
+        {
+          "move_number": 19,
+          "tactic": "skewer",
+          "piece": "bishop",
+          "target": "queen",
+          "square_from": "c1",
+          "square_to": "g5",
+          "description": "Skewer executed: bishop skewers king and queen"
+        }
+      ],
+      "missed": [
+        {
+          "move_number": 16,
+          "tactic": "skewer",
+          "piece": "bishop",
+          "target": "enemy_piece",
+          "square_from": "c4",
+          "square_to": "f7",
+          "description": "Missed skewer opportunity with c4f7"
+        }
+      ],
+      "allowed": []
+    }
+  },
+  "game_5": {
+    "white": "yemon12233224556655558888",
+    "black": "ANIRBANopi",
+    "date": "2025.08.13",
+    "analysis": {
+      "executed": [
+        {
+          "move_number": 20,
+          "tactic": "skewer",
+          "piece": "queen",
+          "target": "bishop",
+          "square_from": "d6",
+          "square_to": "e5",
+          "description": "Skewer executed: queen skewers queen and bishop"
+        },
+        {
+          "move_number": 21,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "rook",
+          "square_from": "d4",
+          "square_to": "d8",
+          "description": "Pin executed: rook pins rook on f8"
+        },
+        {
+          "move_number": 26,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "rook",
+          "square_from": "d8",
+          "square_to": "d1",
+          "description": "Pin executed: rook pins rook on f1"
+        },
+        {
+          "move_number": 61,
+          "tactic": "pin",
+          "piece": "rook",
+          "target": "pawn",
+          "square_from": "e4",
+          "square_to": "h4",
+          "description": "Pin executed: rook pins pawn on h5"
+        }
+      ],
+      "missed": [],
+      "allowed": []
+    }
+  }
+}
