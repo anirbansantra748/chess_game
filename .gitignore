@@ -1,0 +1,27 @@
+# Stockfish source files (too large for GitHub)
+stockfish-windows-x86-64-avx2/
+stockfish-windows-x86-64-avx2.zip
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Output files
+tactics_analysis.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log 
