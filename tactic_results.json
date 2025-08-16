@@ -1,0 +1,263 @@
+{
+    "games.pgn": {
+        "executed": [
+            {
+                "move_no": 22,
+                "piece": "B",
+                "from": "e7",
+                "to": "g5",
+                "uci": "e7g5",
+                "delta": 113,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 24,
+                "piece": "Q",
+                "from": "d8",
+                "to": "e8",
+                "uci": "d8e8",
+                "delta": 112,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 32,
+                "piece": "Q",
+                "from": "e8",
+                "to": "f8",
+                "uci": "e8f8",
+                "delta": 113,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 34,
+                "piece": "B",
+                "from": "c8",
+                "to": "d7",
+                "uci": "c8d7",
+                "delta": 132,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 36,
+                "piece": "R",
+                "from": "a8",
+                "to": "e8",
+                "uci": "a8e8",
+                "delta": 97,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 40,
+                "piece": "Q",
+                "from": "f8",
+                "to": "g8",
+                "uci": "f8g8",
+                "delta": 169,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            }
+        ],
+        "missed": [
+            {
+                "move_no": 9,
+                "piece": "P",
+                "from": "c2",
+                "to": "c3",
+                "uci": "c2c3",
+                "best": "f1b5",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 15,
+                "piece": "P",
+                "from": "h2",
+                "to": "h3",
+                "uci": "h2h3",
+                "best": "c1g5",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 21,
+                "piece": "N",
+                "from": "b1",
+                "to": "a3",
+                "uci": "b1a3",
+                "best": "g5f4",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 29,
+                "piece": "N",
+                "from": "g5",
+                "to": "f3",
+                "uci": "g5f3",
+                "best": "a1e1",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 30,
+                "piece": "P",
+                "from": "a7",
+                "to": "a6",
+                "uci": "a7a6",
+                "best": "c8e6",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 31,
+                "piece": "R",
+                "from": "a1",
+                "to": "e1",
+                "uci": "a1e1",
+                "best": "d2f4",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 33,
+                "piece": "N",
+                "from": "a3",
+                "to": "c2",
+                "uci": "a3c2",
+                "best": "d2f4",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 35,
+                "piece": "N",
+                "from": "c2",
+                "to": "e3",
+                "uci": "c2e3",
+                "best": "d2f4",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 38,
+                "piece": "K",
+                "from": "g8",
+                "to": "h8",
+                "uci": "g8h8",
+                "best": "f8d6",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 41,
+                "piece": "K",
+                "from": "g1",
+                "to": "f1",
+                "uci": "g1f1",
+                "best": "c2b3",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 43,
+                "piece": "P",
+                "from": "c3",
+                "to": "b4",
+                "uci": "c3b4",
+                "best": "d3d1",
+                "tactics": [
+                    "pin/skewer"
+                ]
+            }
+        ],
+        "allowed": [
+            {
+                "move_no": 23,
+                "piece": "R",
+                "from": "e1",
+                "to": "e8",
+                "uci": "e1e8",
+                "delta": -118,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 27,
+                "piece": "Q",
+                "from": "d1",
+                "to": "d2",
+                "uci": "d1d2",
+                "delta": -111,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 37,
+                "piece": "B",
+                "from": "d3",
+                "to": "c2",
+                "uci": "d3c2",
+                "delta": -86,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 39,
+                "piece": "Q",
+                "from": "d2",
+                "to": "d3",
+                "uci": "d2d3",
+                "delta": -89,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 44,
+                "piece": "B",
+                "from": "d7",
+                "to": "b5",
+                "uci": "d7b5",
+                "delta": -653,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            },
+            {
+                "move_no": 46,
+                "piece": "B",
+                "from": "b5",
+                "to": "d3",
+                "uci": "b5d3",
+                "delta": -648,
+                "tactics": [
+                    "pin/skewer"
+                ]
+            }
+        ]
+    }
+}
